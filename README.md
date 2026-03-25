@@ -1,21 +1,58 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🔭 Currently building a **scalable ride-booking system using Microservices architecture**<br>- ⚙️ Working with **Spring Boot, Kafka, JWT, OAuth2, MySQL & MongoDB**<br>- 🤝 Open to collaboration on **backend & distributed system projects**<br>- 📚 Learning deeper about **System Design, Event-driven architecture & Saga pattern**<br>- 💬 Ask me about **API design, database optimization, and backend best practices**<br>- ⚡ Fun fact: I enjoy turning complex problems into simple, scalable solutions 🚀
+# 👨‍💻 About Me
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nguyen.xuan.hung.485300) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=hungnx-yb&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=hungnx-yb&theme=radical&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hungnx-yb&layout=compact&theme=radical&hide_border=true)
+- 🔭 Currently building a **scalable ride-booking system using Microservices architecture**
+- ⚙️ Working with **Spring Boot, Kafka, JWT, OAuth2, MySQL & MongoDB**
+- 🤝 Open to collaboration on **backend & distributed system projects**
+- 📚 Learning **System Design, Event-driven architecture & Saga pattern**
+- 💬 Ask me about **API design & backend best practices**
+- ⚡ Fun fact: I enjoy building scalable systems 🚀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hungnx-yb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/nguyen.xuan.hung.485300)
+
+---
+
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000?logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hungnx-yb&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnx-yb&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hungnx-yb&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hungnx-yb&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+![](https://raw.githubusercontent.com/hungnx-yb/hungnx-yb/output/github-contribution-grid-snake.svg)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=hungnx-yb&icon=0&color=0)
